@@ -1,0 +1,12 @@
+C:\Users\Emiliotg\source\repos\Prototype Shalloq\bin\Debug\netcoreapp3.1\Prototype Shallow.exe
+C:\Users\Emiliotg\source\repos\Prototype Shalloq\bin\Debug\netcoreapp3.1\Prototype Shallow.deps.json
+C:\Users\Emiliotg\source\repos\Prototype Shalloq\bin\Debug\netcoreapp3.1\Prototype Shallow.runtimeconfig.json
+C:\Users\Emiliotg\source\repos\Prototype Shalloq\bin\Debug\netcoreapp3.1\Prototype Shallow.runtimeconfig.dev.json
+C:\Users\Emiliotg\source\repos\Prototype Shalloq\bin\Debug\netcoreapp3.1\Prototype Shallow.dll
+C:\Users\Emiliotg\source\repos\Prototype Shalloq\bin\Debug\netcoreapp3.1\Prototype Shallow.pdb
+C:\Users\Emiliotg\source\repos\Prototype Shalloq\obj\Debug\netcoreapp3.1\Prototype Shallow.csproj.CoreCompileInputs.cache
+C:\Users\Emiliotg\source\repos\Prototype Shalloq\obj\Debug\netcoreapp3.1\Prototype Shallow.AssemblyInfoInputs.cache
+C:\Users\Emiliotg\source\repos\Prototype Shalloq\obj\Debug\netcoreapp3.1\Prototype Shallow.AssemblyInfo.cs
+C:\Users\Emiliotg\source\repos\Prototype Shalloq\obj\Debug\netcoreapp3.1\Prototype Shallow.dll
+C:\Users\Emiliotg\source\repos\Prototype Shalloq\obj\Debug\netcoreapp3.1\Prototype Shallow.pdb
+C:\Users\Emiliotg\source\repos\Prototype Shalloq\obj\Debug\netcoreapp3.1\Prototype Shallow.genruntimeconfig.cache
